@@ -5,3 +5,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 React project + react-bootstrap
 
 ##Link - [deployed project][(https://nkudaaaaa.github.io/portfolio-react/)
+![photo](https://nkudaaaaa.github.io/portfolio-react/)
